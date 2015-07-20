@@ -1,1 +1,1 @@
-Tetste4.txt >> GIT1 - 2
+Tetste4.txt
